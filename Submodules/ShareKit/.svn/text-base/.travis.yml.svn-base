@@ -1,0 +1,27 @@
+language: objective-c
+cache:
+    - cocoapods
+    - bundler
+
+before_install:
+- git submodule update --init --recursive
+- gem install cocoapods
+
+- pod --version
+- pod setup --silent
+- pod repo update --silent
+
+#check podspec
+- travis_wait 35 pod spec lint ShareKit.podspec
+
+#check podspec with current commit
+- travis_wait 35 pod lib lint ShareKit.podspec
+
+script:
+
+#build library
+- xctool -project "ShareKit.xcodeproj" -scheme "Static Library" -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
+
+#run tests
+- xctool test -project "ShareKit.xcodeproj" -scheme "Static Library" -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
+

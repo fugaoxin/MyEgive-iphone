@@ -1,0 +1,16 @@
+//
+//  CommentModel.m
+//  Egive
+//
+//  Created by sino on 15/9/17.
+//  Copyright (c) 2015年 sino. All rights reserved.
+//
+
+#import "CommentModel.h"
+
+@implementation CommentModel
+-(void)setValue:(id)value forUndefinedKey:(NSString *)key{
+    
+    
+}
+@end

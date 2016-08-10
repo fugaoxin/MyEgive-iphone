@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E1998405E8B0C10DA05E0271DC6FCC4BE226A5D2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "21ceba23-4121-4cd9-9ce7-c4051d83062a++6874" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E1998405E8B0C10DA05E0271DC6FCC4BE226A5D2" : 0,
+    "21ceba23-4121-4cd9-9ce7-c4051d83062a++6874" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CB98568D-669D-4CDF-A2BD-99C0DF0CE1C1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E1998405E8B0C10DA05E0271DC6FCC4BE226A5D2" : "2015-egive4u-fe-ios",
+    "21ceba23-4121-4cd9-9ce7-c4051d83062a++6874" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Egive",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Egive.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn+ssh:\/\/Jerry.Zhang@192.168.1.233\/2015-egive4u-fe-ios.svn",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "21ceba23-4121-4cd9-9ce7-c4051d83062a++6874"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/Steven.Cai@192.168.1.233\/git\/2015-egive4u-fe-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E1998405E8B0C10DA05E0271DC6FCC4BE226A5D2"
+    }
+  ]
+}

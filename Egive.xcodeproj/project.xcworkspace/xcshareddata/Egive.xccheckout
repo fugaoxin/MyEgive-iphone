@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CB98568D-669D-4CDF-A2BD-99C0DF0CE1C1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Egive</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E1998405E8B0C10DA05E0271DC6FCC4BE226A5D2</key>
+		<string>ssh://Steven.Cai@192.168.1.233/git/2015-egive4u-fe-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Egive.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E1998405E8B0C10DA05E0271DC6FCC4BE226A5D2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://Steven.Cai@192.168.1.233/git/2015-egive4u-fe-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E1998405E8B0C10DA05E0271DC6FCC4BE226A5D2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E1998405E8B0C10DA05E0271DC6FCC4BE226A5D2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>2015-egive4u-fe-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
